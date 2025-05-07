@@ -1,4 +1,3 @@
-#!/bin/bash 
 
 read -p "Entrez le nom du fichier : " filename
 
